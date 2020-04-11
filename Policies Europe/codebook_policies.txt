@@ -1,4 +1,4 @@
-"Country","school_close_begin","travel_restrictions","public_events","sport_begin","lockdown","social_distancing_encouraged","self_isolating_if_ill","rest_begin","border_close","border_type","flight_rest","border_control"
+"index","Country","school_close_begin","travel_restrictions","public_events","sport_begin","lockdown","social_distancing_encouraged","self_isolating_if_ill","rest_begin","border_close","border_type","flight_rest","border_control"
 "1","Austria",2020-03-14,2020-03-13,2020-03-10,2020-03-15,2020-03-16,2020-03-16,2020-03-16,2020-03-16,2020-03-11,"partly",2020-03-17,2020-03-11
 "2","Belgium",2020-03-14,2020-03-19,2020-03-12,2020-03-16,2020-03-18,2020-03-14,2020-03-10,2020-03-16,2020-03-21,"partly",2020-03-21,2020-03-21
 "3","Denmark",2020-03-13,2020-03-13,2020-03-12,2020-03-12,2020-03-18,2020-03-13,2020-03-12,2020-03-18,2020-03-14,"full",2020-03-14,2020-03-14
